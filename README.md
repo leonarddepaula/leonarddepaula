@@ -7,7 +7,7 @@
 
 Here are some ideas to get you started:
 
-- 
+-  https://github.com/anuraghazra/github-readme-stats#themes link  themes
 - 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
