@@ -1,9 +1,9 @@
 ### Hello, Olá 👋
 :floppy_disk: Python
-🌱 React
-🌱 Vue
-🌱 Angular
-🌱 TypeScript
+:coffee: React
+:coffee: Vue
+:coffee: Angular
+:floppy_disk: TypeScript
 🔭 working on Front-end
 🔭 working on Back-end
 <!--
