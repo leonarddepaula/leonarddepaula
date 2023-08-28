@@ -1,7 +1,11 @@
 ### Hello, Olá 👋
-🌱 Python
+:floppy_disk: Python
 🌱 React
+🌱 Vue
+🌱 Angular
+🌱 TypeScript
 🔭 working on Front-end
+🔭 working on Back-end
 <!--
 **leonarddepaula/leonarddepaula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
