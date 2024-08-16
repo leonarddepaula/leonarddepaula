@@ -40,4 +40,4 @@
 <br />
 <br />
 
-[linkedin]: https://linkedin.com/in/https://www.linkedin.com/in/leonardo-de-paula-95765a196/
+[linkedin]: https://linkedin.com/in/https://www.linkedin.com/in/leonardo-de-paula-95765a196
