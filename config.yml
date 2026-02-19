@@ -44,12 +44,12 @@ projects:
   - repo: "leonarddepaula/*"
     arm: 0
     description: "Blog e site pessoal publicados com GitHub Pages."
-  - repo: "leonarddepaula/*"
+  - repo: "https://github.com/leonarddepaula/inventory-control"
     arm: 1
-    description: "Imputador para dados faltantes com XGBoost focado em ML aplicado."
-  - repo: "leonarddepaula/*"
+    description: "Sistema completo de controle de estoque para indústrias que produzem produtos diversos."
+  - repo: "https://github.com/leonarddepaula/nestjs-clean-arch"
     arm: 2
-    description: "Exemplo em Rust usando token PKCS#11 para conexão TLS autenticada."
+    description: "Exemplo em nestjs usando clean architecture."
 
 stats:
   metrics:
