@@ -1,0 +1,68 @@
+username: leonardodepaula
+
+profile:
+  name: "Leonardo de Paula"
+  tagline: "Engenheiro de Software | Mestrando em Engenharia da Computação (FURG)"
+  company: "FURG"
+  location: "Rio Grande do Sul, Brasil"
+  bio: |
+    Desenvolvedor formado em Engenharia de Software.
+    Mestrando em Engenharia da Computação na FURG, na linha de pesquisa em sistemas multiagentes.
+    Atuo com Node.js, NestJS, Docker, React, Vue.js, PostgreSQL e MongoDB.
+  philosophy: '"Construir com simplicidade, evoluir com consistência."'
+
+social:
+  email: ""
+  linkedin: "leonardo-de-paula-95765a196"
+  website: "http://lattes.cnpq.br/9038502131884499"
+
+galaxy_arms:
+  - name: "Frontend"
+    color: "dendrite_violet"
+    items:
+      - "TypeScript"
+      - "React"
+      - "Vue.js"
+      - "Tailwind CSS"
+  - name: "Backend"
+    color: "synapse_cyan"
+    items:
+      - "Python"
+      - "Java"
+      - "Node.js"
+      - "NestJS"
+      - "PostgreSQL"
+      - "MongoDB"
+  - name: "Cloud/DevOps"
+    color: "axon_amber"
+    items:
+      - "Docker"
+      - "GitHub Actions"
+      - "Azure"
+
+projects:
+  - repo: "leonardodepaula/leonardodepaula.github.io"
+    arm: 0
+    description: "Blog e site pessoal publicados com GitHub Pages."
+  - repo: "leonardodepaula/xgbimputer"
+    arm: 1
+    description: "Imputador para dados faltantes com XGBoost focado em ML aplicado."
+  - repo: "leonardodepaula/Cryptoki-TLS"
+    arm: 2
+    description: "Exemplo em Rust usando token PKCS#11 para conexão TLS autenticada."
+
+stats:
+  metrics:
+    - "commits"
+    - "stars"
+    - "prs"
+    - "issues"
+    - "repos"
+
+languages:
+  exclude:
+    - "HTML"
+    - "CSS"
+    - "Shell"
+    - "Makefile"
+  max_display: 8
